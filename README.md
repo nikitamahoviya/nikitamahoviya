@@ -12,3 +12,4 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/nikita-mahoviya-28034b171/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nikitamahoviya" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mew_equals_to_vd_by_e/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mew_equals_to_vd_by_e" height="30" width="40" /></a>
+<a href="https://mahoviyanikita.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="nikita_medium" height="30" width="40" /></a>
