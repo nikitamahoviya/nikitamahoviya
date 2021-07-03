@@ -1,7 +1,7 @@
 - name: WakaTime Stat Update Action
   # You may pin to the exact commit or the version.
-  # uses: avinal/Profile-Readme-WakaTime@f0032b5824f6358a14bb8f947ed18488621fd222
-  uses: avinal/Profile-Readme-WakaTime@v2.5
+  # uses: nikitamahoviya/Profile-Readme-WakaTime@4e1f9105-025f-430b-a5a3-018035a9cc0f
+  uses: nikitamahoviya/Profile-Readme-WakaTime@v2.5
   with:
     # Your WakaTime API Key
     WAKATIME_API_KEY: 
@@ -11,3 +11,4 @@
     BRANCH: # optional, default is master
     # Manual commit messages
     COMMIT_MSG: # optional, default is Automated Coding Activity Update :alien:
+
