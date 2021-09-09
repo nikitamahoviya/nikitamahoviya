@@ -2,7 +2,8 @@
 <h3 align="center">Pre-Final year @NIT Hamirpur, ECE'23</h3>
 <img align="right"alt="GIF" src="https://github.com/nikitamahoviya/nikitamahoviya/blob/main/Nikita.gif?raw=true"width="500" height="320" />
 
-- 🔭 I’m currently working on [Developing GUI for ImageJ groovy script calling VCell API](https://github.com/nrnb/GoogleSummerOfCode/issues/148)
+- 👩‍💻 Currently working on [Jupyter Kernel for ASM](https://github.com/itssingh/xeus-asm)
+- 🔭 Recently worked on [Developing GUI for ImageJ groovy script calling VCell API](https://github.com/nrnb/GoogleSummerOfCode/issues/148)
 
 - 🌱 I’m currently exploring **Everything ⚡**
 
