@@ -8,6 +8,7 @@
 - 🌱 I’m currently exploring **Everything ⚡**
 
 - 📝 Do visit my GSoC'21 blogs on [https://nrnb-gsoc21.blogspot.com/](https://nrnb-gsoc21.blogspot.com/)
+- 📖 Till The Last Breath
 
 <h3 align="left">Let's get connected over:</h3>
 <p align="left">
