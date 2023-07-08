@@ -1,5 +1,5 @@
 <h1 align="center">Hey There 👋, I'm Nikita Mahoviya</h1>
-<h3 align="center">Final year @NIT Hamirpur, ECE'23</h3>
+<h3 align="center">Integrated Masters @NIT Hamirpur, ECE'23</h3>
 <img align="right"alt="GIF" src="https://github.com/nikitamahoviya/nikitamahoviya/blob/main/Nikita.gif?raw=true"width="500" height="320" />
 
 - 👩‍💻 Currently working on [Data Encryption and Decryption](https://github.com/nikitamahoviya/enc_dec)
